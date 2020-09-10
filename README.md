@@ -18,7 +18,7 @@ Video of gameplay: https://youtu.be/PMRurAhewsc
 ## Gameplay
 With the player getting only one chance to finish the entire game. The game has permadeath and needs to be played completely in one play through. Leaving the game resets your character. 
 
-There is a health and energy system (Represented by the green and red bar on the upper left). If either runs out, you will die.  Both can be replenished by heading back to the mother ship. All movement and special powers cost energy.
+There is a health and energy system (Represented by the green and red bar on the upper left). If either runs out, you will die. Both can be replenished by heading back to the mother ship. All movement and special powers cost energy.
 
 If you're low on energy or health, press L to eject and the penalty for energy is removed. Find your way back to the mother ship and the ship will rebuild around you.
 
@@ -42,3 +42,10 @@ Powers:
 - EMP Blast = LCNTRL
 - OverShield = F
 - Scan tutorial room or remains for data and guns = E
+
+## Screenshots
+![Screen](https://github.com/RohanMenon92/DrowningPlayableDemo/blob/master/Screenshots/Drowning1.PNG)
+![Shield2](https://github.com/RohanMenon92/DrowningPlayableDemo/blob/master/Screenshots/Drowning2.PNG)
+![Gameplay](https://github.com/RohanMenon92/DrowningPlayableDemo/blob/master/Screenshots/Drowning3.PNG)
+![Save](https://github.com/RohanMenon92/DrowningPlayableDemo/blob/master/Screenshots/Drowning4.PNG)
+
